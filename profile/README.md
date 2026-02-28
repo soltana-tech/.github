@@ -1,12 +1,18 @@
-# Soltana Tech
+<div align="center">
 
-Open-source tools for academic and personal scripture study — free to use, built in the open, and built to last.
+# Soltana Tech
 
 ---
 
+_Open-source tools for academic and personal scripture study. Knowledge shared freely._
+
+---
+
+</div>
+
 ## Why This Exists
 
-Free, serious study tools for religious texts are genuinely scarce. Software with real academic depth — original languages, morphology, cross-references, comparative traditions — either costs money (Logos, Accordance) or lacks breadth and polish (Blue Letter Bible, various denominational apps). YouVersion is widely used but has no academic layer. Sefaria covers Jewish texts well but nothing beyond. No single free platform handles the breadth of traditions that serious students need.
+Free, serious study tools for religious texts are genuinely scarce. Software with real academic depth — original languages, morphology, cross-references, comparative traditions — either costs significant money or lacks the breadth and polish that serious students need. No single free platform handles the range of traditions at a level worth relying on.
 
 The goal of this organization is to close that gap with software that is reliable, easy to work with, and openly maintained.
 
